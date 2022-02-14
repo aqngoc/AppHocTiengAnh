@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BTL_Toeic</string>
+    <string name="tra_tu">Word lookup</string>
+    <string name="hoc_tu_moi">Learn</string>
+    <string name="on_tap">Review</string>
+    <string name="muc_tieu">Goal Setting</string>
+    <string name="phan_hoi">Feedback</string>
+    <string name="thoatt">Exit</string>
+    <string name="thong_tin_app">App information</string>
+    <string name="ngon_ngu">Language</string>
+    <string name="font_chu">Font</string>
+    <string name="tu_moi" translatable="false">New Word:</string>
+    <string name="giai_thich" translatable="false">Translation:</string>
+    <string name="show_ket_qua" translatable="false">Answer</string>
+    <string name="da_hoc" translatable="false">OK</string>
+    <string name="tiep" translatable="false">Next</string>
+    <string name="tu" translatable="false">Word</string>
+    <string name="dien_dap_an" translatable="false">Fill in</string>
+    <string name="kiem_tra" translatable="false">Check</string>
+    <string name="luu" translatable="false">Save</string>
+    <string name="so_dien_thoai" translatable="false">Phone:</string>
+    <string name="nhap_noi_dung" translatable="false">Content:</string>
+    <string name="gui" translatable="false">Send</string>
+
+</resources>

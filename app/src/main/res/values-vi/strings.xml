@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BTL_Toeic</string>
+    <string name="tra_tu">Tra Từ</string>
+    <string name="hoc_tu_moi">Học Từ Mới</string>
+    <string name="on_tap">Ôn Tập</string>
+    <string name="muc_tieu">Mục Tiêu</string>
+    <string name="phan_hoi">Phản Hồi</string>
+    <string name="thoatt">Thoát</string>
+    <string name="thong_tin_app">Thông Tin App</string>
+    <string name="ngon_ngu">Ngôn Ngữ</string>
+    <string name="font_chu">Font Chữ</string>
+    <string name="tu_moi" translatable="false">Từ Mới</string>
+    <string name="giai_thich" translatable="false">Giải thích</string>
+    <string name="show_ket_qua" translatable="false">Show Kết Quả</string>
+    <string name="da_hoc" translatable="false">Đã Học</string>
+    <string name="tiep" translatable="false">Tiếp</string>
+    <string name="tu" translatable="false">Từ</string>
+    <string name="dien_dap_an" translatable="false">Điền đáp án</string>
+    <string name="kiem_tra" translatable="false">Kiểm Tra</string>
+    <string name="luu" translatable="false">Lưu</string>
+    <string name="so_dien_thoai" translatable="false">SĐT:</string>
+    <string name="nhap_noi_dung" translatable="false">Nhập nội dung:</string>
+    <string name="gui" translatable="false">Gửi</string>
+</resources>

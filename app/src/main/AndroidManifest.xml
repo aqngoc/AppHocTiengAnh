@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.btl_toeic">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BTL_Toeic">
+        <activity android:name=".ActivityGhiChu"></activity>
+        <activity android:name=".ActivityChonChuDeTuMoi" />
+        <activity android:name=".ActivityChonNgonNgu" />
+        <activity android:name=".ActivityPhanHoi" />
+        <activity android:name=".ActivityThongTinApp" />
+        <activity android:name=".ActivityMuctieu" />
+        <activity android:name=".ActivityChucmung" />
+        <activity android:name=".ActivityTratu" />
+        <activity android:name=".ActivityOntap" />
+        <activity android:name=".ActivityHoctumoi" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
